@@ -27,7 +27,8 @@ body{
     line-height: 50px;
     background-color: gray;
     text-align: center;
-    color: white;
+    position: absolute;
+    bottom: 0;
 }
 
 #header{
